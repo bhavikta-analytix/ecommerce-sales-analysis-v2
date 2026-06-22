@@ -31,3 +31,5 @@ This project analyzes e-commerce sales performance using Power BI and the Supers
 
 See:
 dashboard/dashboard_final.png
+
+![Dashboard Preview](dashboard/dashboard_final.png)
