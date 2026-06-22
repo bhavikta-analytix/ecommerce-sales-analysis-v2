@@ -17,9 +17,14 @@ This project analyzes e-commerce sales performance using Power BI and the Supers
 ### Dataset
 - SampleSuperstore.csv
 
-### SQL Analysis
-- Business analysis queries
-- Sales analysis queries
+## SQL Analysis
+
+- 01_data_exploration.sql
+- 02_business_analysis.sql
+- 03_sales_trends.sql
+- 04_top_customers.sql
+- 05_regional_performance.sql
+- 06_profitability_analysis.sql
 
 ## Key Insights
 - Category-wise sales analysis
